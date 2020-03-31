@@ -1,0 +1,7 @@
+Pessoas:
+  pessoa1:
+    nome: 'junior'
+    idade: 19
+  pessoa2:
+    nome: 'gilberto'
+    idade: 19

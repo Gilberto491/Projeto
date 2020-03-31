@@ -1,0 +1,11 @@
+name: Projeto
+main: me.projeto.Projeto
+version: 1.0
+commands:
+  ajuda:
+  kits:
+  tag:
+  youtube:
+  entidades:
+  villager:
+
